@@ -1,1 +1,1 @@
-# icp-7
+name:RAJYALAKSHMI GOTTIPATI student id: 700745186 video link:https://drive.google.com/file/d/1ezEZLqOIaomwBW0ctEZSOBCUWFzj0ThM/view?usp=drive_link Document- Neural Network & Deep learning - ICP-7.docx Video File-NNDL-ASSIGNMENT7.mp4 Code- NN-Assignment7.ipynb
